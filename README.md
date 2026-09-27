@@ -159,6 +159,9 @@ Data storytelling
 📧 Email: antimapandey600@gmail.com
 💼 LinkedIn:(https://www.linkedin.com/in/antima-pandey-4057b53ba/)
 🐙 GitHub:(https://github.com/antima1234)
+portfolio: (https://www.canva.com/design/DAHSV6z5T-s/PkTHPNwYl9euR6P1wi5Zaw/edit)
+
+
 Feel free to reach out for feedback, collaboration, or questions about this project!
 
 This project is for educational and portfolio purposes, analyzing publicly available pizza sales data.
