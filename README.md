@@ -155,6 +155,10 @@ Data storytelling
 
 ## 📬 Contact
 
-Feel free to connect if you have feedback or questions about this project!
+ Name- Antima Pandey 
+📧 Email: antimapandey600@gmail.com
+💼 LinkedIn:(https://www.linkedin.com/in/antima-pandey-4057b53ba/)
+🐙 GitHub:(https://github.com/antima1234)
+Feel free to reach out for feedback, collaboration, or questions about this project!
 
-Name- Antima Pandey 
+This project is for educational and portfolio purposes, analyzing publicly available pizza sales data.
